@@ -1,0 +1,102 @@
+{
+    "name": "U.S. Department of Labor",
+    "description": "Welcome to the U.S. Department of Labor's Facebook page. We share info on jobs and training, safety and regulations, and other issues impacting workers.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/268-u-s--department-of-labor.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "job management",
+        "labor"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/u-s--department-of-labor\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "U.S. Department of Labor",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/268-u-s--department-of-labor.jpg",
+            "humanURL": "http:\/\/dol.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/u-s--department-of-labor-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/u-s--department-of-labor-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.dol.gov"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/u-s-department-of-labor"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/u-s-department-of-labor"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.dol.gov\/"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@dol.gov"
+        },
+        {
+            "type": "Email",
+            "url": "chiefevaluationoffice@dol.gov"
+        },
+        {
+            "type": "Email",
+            "url": "Versen.Joseph.H@DOL.GOV"
+        },
+        {
+            "type": "Email",
+            "url": "watson.christopher@dol.gov"
+        },
+        {
+            "type": "Email",
+            "url": "cook.katherine@dol.gov"
+        },
+        {
+            "type": "Email",
+            "url": "sparding.kristin.l@dol.gov"
+        },
+        {
+            "type": "Email",
+            "url": "goodyear.jennifer@dol.gov"
+        },
+        {
+            "type": "Email",
+            "url": "Contact-OIR@dol.gov"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster.ebsa@dol.gov"
+        },
+        {
+            "type": "Email",
+            "url": "mulhall.tamara@dol.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/USDOL"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dol.gov\/"
+        }
+    ]
+}
