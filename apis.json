@@ -8,8 +8,8 @@
         "job management",
         "labor"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/u-s--department-of-labor\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -23,17 +23,17 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/u-s--department-of-labor-openapi.json"
-                },
-                {
-                    "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/u-s--department-of-labor-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/u-s--department-of-labor\/master\/u-s--department-of-labor-openapi.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Base",
             "url": "http:\/\/api.dol.gov"
